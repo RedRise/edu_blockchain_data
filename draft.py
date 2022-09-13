@@ -6,6 +6,7 @@ import pandas as pd
 
 cg = CoinGeckoAPI()
 
+# historical prices
 ddata = cg.get_coin_market_chart_by_id(id = "bitcoin", vs_currency="USD", days=250)
 
 x = ddata["prices"][-1][0]
@@ -20,4 +21,11 @@ df = pd.concat(dfs, axis=1)
 df["id"] = "bitcoin"
 df["numeraire"] = "usd"
 df
+
+
+# historical markets
+
+mdata = cg.get_coins_markets(vs_currency="USD")
+pd.DataFrame(mdata)
+len(mdata)
 
