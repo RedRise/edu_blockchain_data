@@ -1,5 +1,4 @@
 import os
-import argparse
 from datetime import datetime
 from utils.datetime import range_end_of_month
 from dal.coincodex import download_market_caps

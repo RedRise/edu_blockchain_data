@@ -53,8 +53,8 @@ def _parse_market_cap_content(content: bytes) -> pd.DataFrame:
     return df
 
 
-for col in ["price", "mkt-cap"]
-df["market-cap"].replace('[\$,]', '', regex=True).astype(float)
+# for col in ["price", "mkt-cap"]
+# df["market-cap"].replace('[\$,]', '', regex=True).astype(float)
 
 
 def download_market_caps(date: datetime.date) -> pd.DataFrame:
