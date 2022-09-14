@@ -29,6 +29,7 @@ def page_is_valid(page: float) -> bool:
     return len(get_markets(int(page))) > 0
 
 
+# binary search for the max number of pages
 page_max = highest_valid_binary_search(
     page_is_valid, 1, 500, 4, low_valid=True, high_valid=False, lower_bound=False)
 

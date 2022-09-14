@@ -1,0 +1,510 @@
+ticker;name
+BTC;Bitcoin
+ETH;Ethereum
+XRP;XRP
+LTC;Litecoin
+XMR;Monero
+ETC;Ethereum Classic
+DASH;Dash
+STEEM;Steem
+XEM;NEM
+FCT;Factom
+WAVES;Waves
+DOGE;Dogecoin
+XLM;Stellar
+ZEC;Zcash
+LSK;Lisk
+GAME;GameCredits
+BTS;BitShares
+USDT;Tether
+BCN;Bytecoin
+NLG;Gulden
+EMC;Emercoin
+NEO;NEO
+STRAX;Stratis
+LMC;LoMoCoin
+IOC;I/O Coin
+NXT;Nxt
+PPC;Peercoin
+AGRS;Agoras
+SC;Siacoin
+RBY;Rubycoin
+XCP;Counterparty
+SYS;Syscoin
+GCR;Global Currency Reserve
+NMC;Namecoin
+POT;PotCoin
+NAV;NAV Coin
+GRC;GridCoin
+ION;Ionomy
+BLK;BlackCoin
+DGB;DigiByte
+CLAM;Clams
+DCR;Decred
+OMNI;Omni
+TIPS;FedoraCoin
+VASH;VPNCoin
+AEON;Aeon
+NXS;Nexus
+SBD;Steem Dollars
+SIB;SIBCoin
+VTC;Vertcoin
+VRS;Veros
+AUR;Auroracoin
+MONA;MonaCoin
+EAC;EarthCoin
+CURE;Curecoin
+EXP;Expanse
+VAL;Validity
+SIGNA;Signum
+FTC;Feathercoin
+XPM;Primecoin
+XHI;HiCoin
+CLOAK;CloakCoin
+VIA;Viacoin
+USNBT;NuBits
+NVC;Novacoin
+BBR;Boolberry
+VRC;VeriCoin
+ADZ;Adzcoin
+ENRG;Energycoin
+QRK;Quark
+MOON;Mooncoin
+GLC;GoldCoin
+SLS;SaluS
+XDN;DigitalNote
+RDD;ReddCoin
+GBYTE;Obyte
+OK;OKCash
+WDC;WorldCoin
+MEC;Megacoin
+NOTE;DNotes
+IFC;Infinitecoin
+BLOCK;Blocknet
+FREED;Freedomcoin
+ZET;Zetacoin
+LBC;LBRY Credits
+DMD;Diamond
+GB;GoldBlocks
+FLO;FLO
+PIVX;PIVX
+BELA;Bela
+J;Joincoin
+FIRO;Firo
+BOST;BoostCoin
+RVR;RevolutionVR
+HTC;HitCoin
+ERC;EuropeCoin
+EGC;EverGreenCoin
+XMY;Myriad
+DGC;Digitalcoin
+RISE;Rise
+GOLOS;Golos
+PASC;Pascal Coin
+PUT;PutinCoin
+ZCL;ZClassic
+WBB;Wild Beast Block
+VIDZ;PureVidz
+NEOS;NeosCoin
+KMD;Komodo
+UBQ;Ubiq
+SHIFT;Shift
+DIME;Dimecoin
+SEQ;Sequence
+XBC;Bitcoin Plus
+ARK;Ark
+MUE;MonetaryUnit
+ARC;Advanced Technology Coin
+BSD;BitSend
+MSCN;Master Swiscoin
+SPR;SpreadCoin
+EMC2;Einsteinium
+XNO;Nano
+SKY;Skycoin
+DBIX;DubaiCoin
+FRST;FirstCoin
+PINK;PinkCoin
+XAS;Asch
+CCRB;CryptoCarbon
+ZENI;Zennies
+XVG;Verge
+XBY;XTRABYTES
+SPHR;Sphere
+MIOTA;IOTA
+SNT;Status
+VERI;Veritaseum
+MGO;MobileGo
+RLC;iExec RLC
+MLN;Enzyme
+NMR;Numeraire
+WINGS;Wings
+PPY;Peerplays
+MYST;Mysterium
+XEL;Elastic
+XCN;Cryptonite
+OMG;OMG Network
+MTL;Metal
+ETP;Metaverse ETP
+DCT;DECENT
+PART;Particl
+STORJ;Storj
+CHC;ChainCoin
+NLC2;NoLimitCoin
+BCH;Bitcoin Cash
+QTUM;Qtum
+PAY;TenX
+EOS;EOS
+MAID;MaidSafeCoin
+REP;Augur
+GLM;Golem
+BAT;Basic Attention Token
+BNB;Binance Coin
+GNO;Gnosis
+CVC;Civic
+ZRX;0x
+PPT;Populous
+GAS;Gas
+MCO;Crypto.com
+ARDR;Ardor
+BNT;Bancor Network Token
+FUN;FUNToken
+BTM;Bytom
+ANT;Aragon
+SNGLS;SNGLS DAO
+TNT;Tierion
+DNT;district0x
+EDG;Edgeless
+VGX;Voyager Token
+ADX;Ambire AdEx
+PLR;Pillar
+CDT;Blox
+STX;Stox
+XRL;Rialto
+QRL;Quantum Resistant Ledger
+VSL;vSlice
+LUN;Lunyr
+SAN;Santiment Network Token
+SNM;SONM
+KNC;Kyber Network Crystal
+LINK;ChainLink
+WTC;Waltonchain
+AE;Aeternity
+KIN;Kin
+SALT;SALT
+MTH;Monetha
+LRC;Loopring
+TCC;The ChampCoin
+BMC;Blackmoon Crypto
+TRX;TRON
+SUB;Substratum
+POE;Po.et
+ZEN;Horizen
+DLT;Agrello Delta
+MANA;Decentraland
+ADA;Cardano
+KNCL;Kyber Network Crystal Legacy
+ATM;ATMChain
+SMART;SmartCash
+PURA;Pura
+NEBL;Neblio
+ATB;Atbcoin
+AMB;Ambrosus
+AST;AirSwap
+ENG;Enigma
+MDA;Moeda Loyalty Points
+PHX;Red Pulse Phoenix
+EVX;Everex
+REQ;Request Network
+VIB;Viberate
+BTG;Bitcoin Gold
+BTX;BitCore
+POWR;Power Ledger
+XUC;Exchange Union
+RDN;Raiden Network
+DATA;Streamr
+MNX;MinexCoin
+QSP;Quantstamp
+RCN;Ripio Credit Network
+OTN;Open Trading Network
+REV;RChain
+REV;Revain
+GRID;Grid+
+COB;Cobinhood
+ICX;ICON
+ETN;Electroneum
+AION;Aion
+DRGN;Dragonchain
+ELF;aelf
+DENT;Dent
+LEND;Aave [old]
+THC;HempCoin
+ENJ;Enjin Coin
+CND;Cindicator
+STORM;Storm
+UTK;UTRUST
+MKR;Maker
+KCS;KuCoin Token
+IGNIS;Ignis
+NAS;Nebulas Token
+IOST;IOStoken
+SRN;SIRIN LABS Token
+MED;Medibloc
+HPB;High Performance Blockchain
+PAC;PAC Protocol
+SPHTX;SophiaTX
+ITC;IoT Chain
+BIX;Bibox Token
+ACT;Achain
+VEE;BLOCKv
+ZIL;Zilliqa
+POLY;FarmPoly
+POLY;Polymath
+AGIX;SingularityNET
+ONT;Ontology
+BCD;Bitcoin Diamond
+MITH;Mithril
+NCASH;Nucleus Vision
+NULS;Nuls
+GNX;Genaro Network
+MAN;Matrix AI Network
+CS;Credits
+GVT;Genesis Vision
+POA;POA Network
+AUTO;Cube
+THETA;Theta Token
+BTCP;Bitcoin Private
+XIN;Mixin
+CTXC;Cortex
+ELA;Elastos
+GTO;Gifto
+FSN;Fusion
+LOOM;Loom Network
+DBC;DeepBrain Chain
+SMT;SmartMesh
+BOS;BOScoin
+RUFF;Ruff
+HT;Huobi Token
+MYB;MyBit
+SOC;All Sports
+HOT;Holo
+BFT;BF Token
+STQ;Storiqa
+TRUE;True Chain
+NEXO;Nexo
+DDD;Scry.info
+0xBTC;0xBitcoin
+OKB;OKB
+WAN;Wanchain
+DCN;Dentacoin
+GTC;Game
+QASH;QASH
+INC;Influence Chain
+VET;VeChain
+XTZ;Tezos
+CET;CoinEx Token
+PDX;PayDay
+NOAH;Noah Coin
+AOA;Aurora
+RRT;Recovery Right Token
+DAI;Multi-Collateral Dai
+MTC;Doc.com
+OCN;Odyssey
+USDC;USD Coin
+USDP;Pax Dollar
+RVN;Ravencoin
+DGTX;Digitex Futures
+BSV;Bitcoin SV
+ODEM;ODEM
+CTK;CertiK
+GUSD;Gemini Dollar
+QKC;QuarkChain
+TUSD;TrueUSD
+BCZERO;Buggyra Coin Zero
+EURS;STASIS EURS
+REPO;REPO
+TRD;Bittrader
+PAI;Project Pai
+CRO;Cronos
+EVR;Everus
+DYN;Dynamic
+S4F;S4FE
+QNT;Quant
+NEX;Nash
+ANKR;Ankr Network
+ATOM;Cosmos
+ABBC;ABBC COIN
+ORBS;Orbs
+SOLVE;Solve
+LA;LATOKEN
+TFUEL;Theta Fuel
+CELR;Celer Network
+LEO;UNUS SED LEO
+VSYS;V Systems
+EGT;Egretia
+PDATA;Opiria
+NRG;Energi
+EKT;EDUCare
+GRIN;Grin
+REN;Ren
+UUU;U Network
+XMX;XMax
+UIP;UnlimitedIP
+RIF;RIF Token
+CIX100;Cryptoindex
+FX;Function X
+ZB;ZB
+ALGO;Algorand
+ATP;Atlas Protocol
+BXK;BitBook AG
+BDX;Beldex
+DRG;Dragon Coin
+BEAM;BEAM
+VITAE;Vitae
+LUNC;Terra Classic
+SXP;SXP
+SNX;Synthetix
+FTT;FTX Token
+BAND;Band Protocol
+BCV;BitCapitalVendor
+BF;Bitforex Token
+CRPT;Crypterium
+BZ;Bit-Z Token
+EON;Dimension Chain
+HC;HyperCash
+GAP;GAPS
+MOF;Molecular Future
+SEELE;Seele
+NEW;Newton Project
+MATIC;Polygon
+CHZ;Chiliz
+ASD;AscendEX Token
+ILC;ILCOIN
+GT;GateToken
+CKB;Nervos Network
+CEL;Celsius Network
+QC;QCash
+WICC;WaykiChain
+BUSD;Binance USD
+HBAR;Hedera Hashgraph
+HIVE;Hive Token
+SURE;inSure DeFi
+ECHO;Echo
+EURT;Tether EUR
+XAUT;Tether Gold
+QQQ;Poseidon Network
+HUSD;HUSD
+HYN;Hyperion
+UBT;Unibright
+BHD;BTCHD
+VLX;Velas
+STX;Stacks
+BAL;Balancer
+DIVI;Divi Project
+CHSB;SwissBorg
+RUNE;THORChain
+WBTC;Wrapped Bitcoin
+COMP;Compound
+AMPL;Ampleforth
+YFI;yearn.finance
+KAVA;Kava
+DOT;Polkadot
+UMA;UMA
+EWT;Energy Web Token
+KSM;Kusama
+OCEAN;Ocean Protocol
+RSR;Reserve Rights
+BZRX;bZx Protocol
+NEST;NEST Protocol
+AR;Arweave
+YFII;DFI.money
+SRM;Serum
+SOL;Solana
+JST;JUST
+UNI;Uniswap
+EGLD;Elrond
+PERP;Perpetual Protocol
+AVAX;Avalanche
+FIL;Filecoin
+AAVE;Aave
+RENBTC;renBTC
+NXM;Nexus Mutual
+NEAR;Near Protocol
+CRD;CRD Network
+DX;DxChain
+HBTC;Huobi BTC
+STRONG;Strong
+XDC;XinFin Network
+GRT;The Graph
+ESD;Empty Set Dollar
+USTC;TerraClassicUSD
+1INCH;1inch Network Token
+CELO;Celo
+CRV;Curve DAO Token
+GNY;GNY
+ALPHA;Alpha Finance Lab
+FTM;Fantom
+SUSHI;Sushi
+FLOW;Flow
+CAKE;PancakeSwap
+XSUSHI;xSUSHI
+AMP;Amp
+DODO;DODO Token
+KLAY;Klaytn
+BRG;Bridge Oracle
+OMI;ECOMI
+ONE;Harmony
+CFX;Conflux Network
+LUSD;Liquity USD
+ARRR;Pirate Chain
+XVS;Venus
+ICP;Internet Computer
+STEEL;Steel
+SHIB;SHIBA INU
+FIDA;Bonfida
+TEL;Telcoin
+FEI;Fei USD
+MDX;Mdex
+AXS;Axie Infinity
+DESO;Decentralized Social
+XEC;eCash
+STETH;Lido Staked Ether
+HNT;Helium
+AUDIO;Audius
+OHM;Olympus v2
+DYDX;dYdX
+MINA;Mina Protocol
+MIM;Magic Internet Money
+BIT;BitDAO
+SAND;The Sandbox
+ELON;Dogelon Mars
+TIME;Wonderland
+GALA;GALA
+KDA;Kadena
+IMX;Immutable X
+IOTX;IoTeX
+ENS;Ethereum Name Service
+MSOL;Marinade staked SOL
+WAXP;WAX
+FRAX;Frax
+CVX;Convex Finance
+SPELL;Spell Token
+ROSE;Oasis Network
+BTT;BitTorrent
+OSMO;Osmosis
+POKT;Pocket Network
+BORA;BORA
+KUB;Bitkub Coin
+ANC;Anchor Protocol
+APE;ApeCoin
+DFI;DeFiChain
+GMT;Green Metaverse Token
+SCRT;Secret
+XCN;Chain
+LDO;Lido DAO Token
+USDN;Neutrino USD
+MEX;Maiar
+LUNA;Terra
+PAXG;PAX Gold
+WEMIX;WEMIX Token
+10SET;Tenset
+TWT;Trust Wallet Token

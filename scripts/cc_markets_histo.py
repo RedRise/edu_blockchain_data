@@ -6,10 +6,11 @@ import time
 
 
 for eom in range_end_of_month(datetime(2021, 8, 1).date()):
+    # eom = datetime(2020, 8, 8)
     print(eom)
     df = download_market_caps(eom)
     filepath = os.path.join(
-        "static", "output", "{0}_mktcap_coincodex.csv".format(eom.strftime("%Y%m%d")))
+        "static", "output", "markets_cc_{}.csv".format(eom.strftime("%Y%m%d")))
     print(filepath)
-    df.to_csv(filepath, sep=";")
+    df.to_csv(filepath, sep=";", index=False)
     time.sleep(5)
