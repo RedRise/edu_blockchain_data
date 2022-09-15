@@ -1,6 +1,6 @@
-from mimetypes import suffix_map
 import os
 import pandas as pd
+from strsimpy.jaro_winkler import JaroWinkler
 
 # read cc ref file
 filepath = os.path.join("data", "ref", "cc", "ref_cc_20220914.csv")
@@ -14,8 +14,8 @@ rcg = mcg[["id", "symbol"]].drop_duplicates()
 rcg.nunique()
 rcc.nunique()
 
-# id proposal
-
+# 1) perfect match
+# 2) match without dash
 rcc["name_upper"] = rcc["name"].str.upper()
 rcg["id_upper"] = rcg["id"].str.upper()
 rcg["id_upper_no_dash"] = rcg["id_upper"].str.replace("-", " ")
@@ -24,30 +24,27 @@ mref = rcc.set_index("name_upper") \
     .join(rcg.set_index("id_upper")["id"]) \
     .join(rcg.set_index("id_upper_no_dash")["id"], rsuffix="2")
 
-mref.loc[mref["id"].isna() & mref["id2"].isna()]
+
+# 3) guesses best matches
+# see : https://github.com/luozhouyang/python-string-similarity#jaro-winkler
+
+# define matching mechanics
+sim_model = JaroWinkler()
+guesses_df = rcg.set_index("id")
 
 
-no_match = set(rcc["name_upper"])
-match_1 = no_match.intersection(set(rcg["id_upper"]))
-no_match = no_match.remove(match_1)
-match_2 =
-
-.to_list().intersection
-# 1) perfect match
-# 2) - removal
-rcg.set_index("id_upper")
+def str_best_match(x: str) -> str:
+    x = x.upper()
+    return guesses_df["id_upper"].apply(lambda y: sim_model.similarity(x, y)).idxmax()
 
 
-rcc["match"] = rcc["name"].str.upper().apply(lambda x: x in cg_id)
+nomatch_df = mref.loc[mref["id"].isna() & mref["id2"].isna()
+                      ]["name"].copy().to_frame()
+nomatch_df["id3"] = nomatch_df.reset_index()["name_upper"].apply(
+    lambda x: str_best_match(x)).to_list()
 
-tcc = rcc.loc[~ rcc["match"]].copy()
-
-cg_id2 = rcg["id"].str.replace("-", " ").str.upper().to_list()
-tcc["match"] = tcc["name"].str.upper().apply(lambda x: x in cg_id2)
-
-tcc.loc[~ tcc["match"]].copy()
-
-rcg.loc[rcg["id"].str.contains("ethereum")]
-rcg.loc[rcg["id"].str.contains("agora")]
-
-[x in cg_id for x in cc_id]
+# combine and write
+mref = mref.join(nomatch_df["id3"])
+mref.reset_index()
+mref.to_csv(os.path.join("data", "ref", "main",
+            "ref_main.csv"), sep=";", index=False)
