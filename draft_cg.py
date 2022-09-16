@@ -8,7 +8,7 @@ cg = CoinGeckoAPI()
 
 # historical prices
 ddata = cg.get_coin_market_chart_by_id(
-    id="obyte", vs_currency="USD", days=250)
+    id="pascalcoin", vs_currency="USD", days=250)
 
 x = ddata["prices"][-1][0]
 

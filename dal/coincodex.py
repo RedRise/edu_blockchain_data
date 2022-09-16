@@ -96,9 +96,14 @@ def _get_coin_history(symbol: str, start: datetime.date, end: datetime.date, sam
 
 
 def download_daily_prices(symbol, start: datetime.date, end: datetime.date) -> pd.DataFrame:
-
+    day_incr = 500
+    loc_start = start
+    loc_end = min(end, start + timedelta(days=day_incr))
+    loc_steps = (loc_end - loc_start)
     pass
 
+
+datetime(2021, 1, 10)-datetime(2021, 1, 1).days()
 
 # start = datetime(2016, 1, 1)
 # steps = 365

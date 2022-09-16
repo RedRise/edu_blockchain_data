@@ -54,4 +54,4 @@ mref.to_csv(filepath, sep=";", index=False)
 nomatch_df.loc["VALIDITY"]
 mref.loc["VALIDITY"]
 rcg.set_index("id").loc["ripple"]
-rcg["id"].apply(lambda x: x.contains("valid"))
+rcg.loc[rcg["id"].apply(lambda x: 'valid' in x)]
