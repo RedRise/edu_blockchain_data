@@ -1,0 +1,510 @@
+ticker ;name                         ;id             ;id2                         ;id3                       ;Comment
+BTC    ;Bitcoin                      ;bitcoin        ;bitcoin                     ;                          
+ETH    ;Ethereum                     ;ethereum       ;ethereum                    ;                          
+XRP    ;XRP                          ;               ;                            ;xrp                       
+LTC    ;Litecoin                     ;litecoin       ;litecoin                    ;                          
+XMR    ;Monero                       ;monero         ;monero                      ;                          
+ETC    ;Ethereum Classic             ;               ;ethereum-classic            ;                          
+DASH   ;Dash                         ;dash           ;dash                        ;                          
+STEEM  ;Steem                        ;steem          ;steem                       ;                          
+XEM    ;NEM                          ;nem            ;nem                         ;                          
+FCT    ;Factom                       ;factom         ;factom                      ;                          
+WAVES  ;Waves                        ;waves          ;waves                       ;                          
+DOGE   ;Dogecoin                     ;dogecoin       ;dogecoin                    ;                          
+XLM    ;Stellar                      ;stellar        ;stellar                     ;                          
+ZEC    ;Zcash                        ;zcash          ;zcash                       ;                          
+LSK    ;Lisk                         ;lisk           ;lisk                        ;                          
+GAME   ;GameCredits                  ;gamecredits    ;gamecredits                 ;                          
+BTS    ;BitShares                    ;bitshares      ;bitshares                   ;                          
+USDT   ;Tether                       ;tether         ;tether                      ;                          
+BCN    ;Bytecoin                     ;bytecoin       ;bytecoin                    ;                          
+NLG    ;Gulden                       ;gulden         ;gulden                      ;                          
+EMC    ;Emercoin                     ;emercoin       ;emercoin                    ;                          
+NEO    ;NEO                          ;neo            ;neo                         ;                          
+STRAX  ;Stratis                      ;stratis        ;stratis                     ;                          
+LMC    ;LoMoCoin                     ;               ;                            ;                          ;not-tracked
+IOC    ;I/O Coin                     ;               ;                            ;iocoin                    
+NXT    ;Nxt                          ;nxt            ;nxt                         ;                          
+PPC    ;Peercoin                     ;peercoin       ;peercoin                    ;                          
+AGRS   ;Agoras                       ;               ;                            ;agoras-currency-of-tau    
+SC     ;Siacoin                      ;siacoin        ;siacoin                     ;                          
+RBY    ;Rubycoin                     ;               ;                            ;rubycoin                  ;cmc
+XCP    ;Counterparty                 ;counterparty   ;counterparty                ;                          
+SYS    ;Syscoin                      ;syscoin        ;syscoin                     ;                          
+GCR    ;Global Currency Reserve      ;               ;                            ;global-currency-reserve   ;cmc
+NMC    ;Namecoin                     ;               ;                            ;namecoin                  
+POT    ;PotCoin                      ;potcoin        ;potcoin                     ;                          
+NAV    ;NAV Coin                     ;               ;nav-coin                    ;                          
+GRC    ;GridCoin                     ;               ;                            ;gridcoin-research         
+ION    ;Ionomy                       ;ionomy         ;ionomy                      ;                          
+BLK    ;BlackCoin                    ;blackcoin      ;blackcoin                   ;                          
+DGB    ;DigiByte                     ;digibyte       ;digibyte                    ;                          
+CLAM   ;Clams                        ;clams          ;clams                       ;                          
+DCR    ;Decred                       ;decred         ;decred                      ;                          
+OMNI   ;Omni                         ;omni           ;omni                        ;                          
+TIPS   ;FedoraCoin                   ;fedoracoin     ;fedoracoin                  ;                          
+VASH   ;VPNCoin                      ;vpncoin        ;vpncoin                     ;                          
+AEON   ;Aeon                         ;aeon           ;aeon                        ;                          
+NXS    ;Nexus                        ;nexus          ;nexus                       ;                          
+SBD    ;Steem Dollars                ;               ;steem-dollars               ;                          
+SIB    ;SIBCoin                      ;sibcoin        ;sibcoin                     ;                          
+VTC    ;Vertcoin                     ;vertcoin       ;vertcoin                    ;                          
+VRS    ;Veros                        ;               ;                            ;veros ; cmc
+AUR    ;Auroracoin                   ;auroracoin     ;auroracoin                  ;                          
+MONA   ;MonaCoin                     ;               ;                            ;monacoin                    
+EAC    ;EarthCoin                    ;earthcoin      ;earthcoin                   ;                          
+CURE   ;Curecoin                     ;curecoin       ;curecoin                    ;                          
+EXP    ;Expanse                      ;expanse        ;expanse                     ;                          
+VAL    ;Validity                     ;               ;                            ;radium; rebranded val 2020/12/21                  
+SIGNA  ;Signum                       ;signum         ;signum                      ;                          
+FTC    ;Feathercoin                  ;feathercoin    ;feathercoin                 ;                          
+XPM    ;Primecoin                    ;primecoin      ;primecoin                   ;                          
+XHI    ;HiCoin                       ;hicoin         ;hicoin                      ;                          
+CLOAK  ;CloakCoin                    ;cloakcoin      ;cloakcoin                   ;                          
+VIA    ;Viacoin                      ;               ;                            ;viacoin                   
+USNBT  ;NuBits                       ;               ;                            ;; not-tracked                    
+NVC    ;Novacoin                     ;novacoin       ;novacoin                    ;                          
+BBR    ;Boolberry                    ;               ;                            ;bitberry-token                   
+VRC    ;VeriCoin                     ;vericoin       ;vericoin                    ;                          
+ADZ    ;Adzcoin                      ;               ;                            ;aidcoin                   
+ENRG   ;Energycoin                   ;               ;                            ;; not-tracked                  
+QRK    ;Quark                        ;quark          ;quark                       ;                          
+MOON   ;Mooncoin                     ;mooncoin       ;mooncoin                    ;                          
+GLC    ;GoldCoin                     ;goldcoin       ;goldcoin                    ;                          
+SLS    ;SaluS                        ;               ;                            ;salus                  
+XDN    ;DigitalNote                  ;digitalnote    ;digitalnote                 ;                          
+RDD    ;ReddCoin                     ;reddcoin       ;reddcoin                    ;                          
+GBYTE  ;Obyte                        ;               ;                            ;byteball; rebranded obyte 2019/01/17
+OK     ;OKCash                       ;okcash         ;okcash                      ;                          
+WDC    ;WorldCoin                    ;worldcoin      ;worldcoin                   ;                          
+MEC    ;Megacoin                     ;megacoin       ;megacoin                    ;                          
+NOTE   ;DNotes                       ;               ;                            ;dnotes; cmc                  
+IFC    ;Infinitecoin                 ;infinitecoin   ;infinitecoin                ;                          
+BLOCK  ;Blocknet                     ;blocknet       ;blocknet                    ;                          
+FREED  ;Freedomcoin                  ;               ;                            ;trumpcoin; cmc
+ZET    ;Zetacoin                     ;zetacoin       ;zetacoin                    ;                          
+LBC    ;LBRY Credits                 ;               ;lbry-credits                ;                          
+DMD    ;Diamond                      ;diamond        ;diamond                     ;                          
+GB     ;GoldBlocks                   ;goldblocks     ;goldblocks                  ;                          
+FLO    ;FLO                          ;               ;                            ;not-tracked                      
+PIVX   ;PIVX                         ;pivx           ;pivx                        ;                          
+BELA   ;Bela                         ;bela           ;bela                        ;                          
+J      ;Joincoin                     ;joincoin       ;joincoin                    ;                          
+FIRO   ;Firo                         ;               ;                            ;zcoin; rebranded                       
+BOST   ;BoostCoin                    ;               ;                            ;; not-tracked                    
+RVR    ;RevolutionVR                 ;               ;                            ;; not-tracked                
+HTC    ;HitCoin                      ;               ;                            ;hitcoin                    
+ERC    ;EuropeCoin                   ;europecoin     ;europecoin                  ;                          
+EGC    ;EverGreenCoin                ;               ;                            ;evergreencoin;blockspot.io
+XMY    ;Myriad                       ;               ;                            ;myriadcoin                
+DGC    ;Digitalcoin                  ;digitalcoin    ;digitalcoin                 ;                          
+RISE   ;Rise                         ;               ;                            ;rise                  
+GOLOS  ;Golos                        ;               ;                            ;                    
+PASC   ;Pascal Coin                  ;               ;                            ;pascalcoin                
+PUT    ;PutinCoin                    ;putincoin      ;putincoin                   ;                          
+ZCL    ;ZClassic                     ;zclassic       ;zclassic                    ;                          
+WBB    ;Wild Beast Block             ;               ;wild-beast-block            ;                          
+VIDZ   ;PureVidz                     ;               ;                            ;purevidz ; cmc                
+NEOS   ;NeosCoin                     ;               ;                            ;
+KMD    ;Komodo                       ;komodo         ;komodo                      ;                          
+UBQ    ;Ubiq                         ;ubiq           ;ubiq                        ;                          
+SHIFT  ;Shift                        ;               ;                            ;not-tracked
+DIME   ;Dimecoin                     ;dimecoin       ;dimecoin                    ;                          
+SEQ    ;Sequence                     ;               ;                            ;INPROGRESS TODO
+XBC    ;Bitcoin Plus                 ;               ;bitcoin-plus                ;                          
+ARK    ;Ark                          ;ark            ;ark                         ;                          
+MUE    ;MonetaryUnit                 ;monetaryunit   ;monetaryunit                ;                          
+ARC    ;Advanced Technology Coin     ;               ;                            ;ontology                  
+BSD    ;BitSend                      ;               ;                            ;bitsong                   
+MSCN   ;Master Swiscoin              ;               ;                            ;masterwin                 
+SPR    ;SpreadCoin                   ;               ;                            ;spendcoin                 
+EMC2   ;Einsteinium                  ;einsteinium    ;einsteinium                 ;                          
+XNO    ;Nano                         ;nano           ;nano                        ;                          
+SKY    ;Skycoin                      ;skycoin        ;skycoin                     ;                          
+DBIX   ;DubaiCoin                    ;               ;                            ;baitcoin                  
+FRST   ;FirstCoin                    ;               ;                            ;faithcoin                 
+PINK   ;PinkCoin                     ;pinkcoin       ;pinkcoin                    ;                          
+XAS    ;Asch                         ;               ;                            ;ash                       
+CCRB   ;CryptoCarbon                 ;               ;                            ;cryptocart                
+ZENI   ;Zennies                      ;zennies        ;zennies                     ;                          
+XVG    ;Verge                        ;verge          ;verge                       ;                          
+XBY    ;XTRABYTES                    ;xtrabytes      ;xtrabytes                   ;                          
+SPHR   ;Sphere                       ;sphere         ;sphere                      ;                          
+MIOTA  ;IOTA                         ;iota           ;iota                        ;                          
+SNT    ;Status                       ;status         ;status                      ;                          
+VERI   ;Veritaseum                   ;veritaseum     ;veritaseum                  ;                          
+MGO    ;MobileGo                     ;mobilego       ;mobilego                    ;                          
+RLC    ;iExec RLC                    ;               ;iexec-rlc                   ;                          
+MLN    ;Enzyme                       ;               ;                            ;nym                       
+NMR    ;Numeraire                    ;numeraire      ;numeraire                   ;                          
+WINGS  ;Wings                        ;wings          ;wings                       ;                          
+PPY    ;Peerplays                    ;               ;                            ;peerguess                 
+MYST   ;Mysterium                    ;mysterium      ;mysterium                   ;                          
+XEL    ;Elastic                      ;               ;                            ;elastos                   
+XCN    ;Cryptonite                   ;               ;                            ;cryptonits                
+OMG    ;OMG Network                  ;               ;                            ;gonetwork                 
+MTL    ;Metal                        ;metal          ;metal                       ;                          
+ETP    ;Metaverse ETP                ;               ;metaverse-etp               ;                          
+DCT    ;DECENT                       ;               ;                            ;decentr                   
+PART   ;Particl                      ;particl        ;particl                     ;                          
+STORJ  ;Storj                        ;storj          ;storj                       ;                          
+CHC    ;ChainCoin                    ;               ;                            ;chaincorn                 
+NLC2   ;NoLimitCoin                  ;nolimitcoin    ;nolimitcoin                 ;                          
+BCH    ;Bitcoin Cash                 ;               ;bitcoin-cash                ;                          
+QTUM   ;Qtum                         ;qtum           ;qtum                        ;                          
+PAY    ;TenX                         ;tenx           ;tenx                        ;                          
+EOS    ;EOS                          ;eos            ;eos                         ;                          
+MAID   ;MaidSafeCoin                 ;maidsafecoin   ;maidsafecoin                ;                          
+REP    ;Augur                        ;augur          ;augur                       ;                          
+GLM    ;Golem                        ;golem          ;golem                       ;                          
+BAT    ;Basic Attention Token        ;               ;basic-attention-token       ;                          
+BNB    ;Binance Coin                 ;               ;                            ;binancecoin               
+GNO    ;Gnosis                       ;gnosis         ;gnosis                      ;                          
+CVC    ;Civic                        ;civic          ;civic                       ;                          
+ZRX    ;0x                           ;0x             ;0x                          ;                          
+PPT    ;Populous                     ;populous       ;populous                    ;                          
+GAS    ;Gas                          ;gas            ;gas                         ;                          
+MCO    ;Crypto.com                   ;               ;                            ;cryptotem                 
+ARDR   ;Ardor                        ;ardor          ;ardor                       ;                          
+BNT    ;Bancor Network Token         ;               ;                            ;bancor                    
+FUN    ;FUNToken                     ;               ;                            ;fujitoken                 
+BTM    ;Bytom                        ;bytom          ;bytom                       ;                          
+ANT    ;Aragon                       ;aragon         ;aragon                      ;                          
+SNGLS  ;SNGLS DAO                    ;               ;                            ;snglsdao-governance-token 
+TNT    ;Tierion                      ;tierion        ;tierion                     ;                          
+DNT    ;district0x                   ;district0x     ;district0x                  ;                          
+EDG    ;Edgeless                     ;edgeless       ;edgeless                    ;                          
+VGX    ;Voyager Token                ;               ;                            ;voyager                   
+ADX    ;Ambire AdEx                  ;               ;                            ;ambire-wallet             
+PLR    ;Pillar                       ;pillar         ;pillar                      ;                          
+CDT    ;Blox                         ;blox           ;blox                        ;                          
+STX    ;Stox                         ;stox           ;stox                        ;                          
+XRL    ;Rialto                       ;               ;                            ;rito                      
+QRL    ;Quantum Resistant Ledger     ;               ;quantum-resistant-ledger    ;                          
+VSL    ;vSlice                       ;               ;                            ;vicstep                   
+LUN    ;Lunyr                        ;lunyr          ;lunyr                       ;                          
+SAN    ;Santiment Network Token      ;               ;santiment-network-token     ;                          
+SNM    ;SONM                         ;sonm           ;sonm                        ;                          
+KNC    ;Kyber Network Crystal        ;               ;kyber-network-crystal       ;                          
+LINK   ;ChainLink                    ;chainlink      ;chainlink                   ;                          
+WTC    ;Waltonchain                  ;waltonchain    ;waltonchain                 ;                          
+AE     ;Aeternity                    ;aeternity      ;aeternity                   ;                          
+KIN    ;Kin                          ;kin            ;kin                         ;                          
+SALT   ;SALT                         ;salt           ;salt                        ;                          
+MTH    ;Monetha                      ;monetha        ;monetha                     ;                          
+LRC    ;Loopring                     ;loopring       ;loopring                    ;                          
+TCC    ;The ChampCoin                ;               ;the-champcoin               ;                          
+BMC    ;Blackmoon Crypto             ;               ;                            ;blackcoin                 
+TRX    ;TRON                         ;tron           ;tron                        ;                          
+SUB    ;Substratum                   ;substratum     ;substratum                  ;                          
+POE    ;Po.et                        ;               ;                            ;poet                      
+ZEN    ;Horizen                      ;               ;                            ;horgi                     
+DLT    ;Agrello Delta                ;               ;                            ;agrello                   
+MANA   ;Decentraland                 ;decentraland   ;decentraland                ;                          
+ADA    ;Cardano                      ;cardano        ;cardano                     ;                          
+KNCL   ;Kyber Network Crystal Legacy ;               ;                            ;kyber-network-crystal     
+ATM    ;ATMChain                     ;               ;                            ;achain                    
+SMART  ;SmartCash                    ;smartcash      ;smartcash                   ;                          
+PURA   ;Pura                         ;               ;                            ;pray                      
+NEBL   ;Neblio                       ;neblio         ;neblio                      ;                          
+ATB    ;Atbcoin                      ;atbcoin        ;atbcoin                     ;                          
+AMB    ;Ambrosus                     ;               ;                            ;amber                     
+AST    ;AirSwap                      ;airswap        ;airswap                     ;                          
+ENG    ;Enigma                       ;enigma         ;enigma                      ;                          
+MDA    ;Moeda Loyalty Points         ;               ;moeda-loyalty-points        ;                          
+PHX    ;Red Pulse Phoenix            ;               ;                            ;red-pulse                 
+EVX    ;Everex                       ;everex         ;everex                      ;                          
+REQ    ;Request Network              ;               ;request-network             ;                          
+VIB    ;Viberate                     ;viberate       ;viberate                    ;                          
+BTG    ;Bitcoin Gold                 ;               ;bitcoin-gold                ;                          
+BTX    ;BitCore                      ;bitcore        ;bitcore                     ;                          
+POWR   ;Power Ledger                 ;               ;power-ledger                ;                          
+XUC    ;Exchange Union               ;               ;exchange-union              ;                          
+RDN    ;Raiden Network               ;               ;raiden-network              ;                          
+DATA   ;Streamr                      ;streamr        ;streamr                     ;                          
+MNX    ;MinexCoin                    ;               ;                            ;mindcoin                  
+QSP    ;Quantstamp                   ;quantstamp     ;quantstamp                  ;                          
+RCN    ;Ripio Credit Network         ;               ;ripio-credit-network        ;                          
+OTN    ;Open Trading Network         ;               ;                            ;minter-network            
+REV    ;RChain                       ;rchain         ;rchain                      ;                          
+REV    ;Revain                       ;revain         ;revain                      ;                          
+GRID   ;Grid+                        ;               ;                            ;grid                      
+COB    ;Cobinhood                    ;               ;                            ;coin                      
+ICX    ;ICON                         ;icon           ;icon                        ;                          
+ETN    ;Electroneum                  ;electroneum    ;electroneum                 ;                          
+AION   ;Aion                         ;aion           ;aion                        ;                          
+DRGN   ;Dragonchain                  ;dragonchain    ;dragonchain                 ;                          
+ELF    ;aelf                         ;aelf           ;aelf                        ;                          
+DENT   ;Dent                         ;dent           ;dent                        ;                          
+LEND   ;Aave [old]                   ;               ;                            ;aave                      
+THC    ;HempCoin                     ;               ;                            ;hempcoin-thc              
+ENJ    ;Enjin Coin                   ;               ;                            ;enjincoin                 
+CND    ;Cindicator                   ;cindicator     ;cindicator                  ;                          
+STORM  ;Storm                        ;storm          ;storm                       ;                          
+UTK    ;UTRUST                       ;utrust         ;utrust                      ;                          
+MKR    ;Maker                        ;maker          ;maker                       ;                          
+KCS    ;KuCoin Token                 ;               ;                            ;dcoin-token               
+IGNIS  ;Ignis                        ;ignis          ;ignis                       ;                          
+NAS    ;Nebulas Token                ;               ;                            ;nebulatoken               
+IOST   ;IOStoken                     ;iostoken       ;iostoken                    ;                          
+SRN    ;SIRIN LABS Token             ;               ;sirin-labs-token            ;                          
+MED    ;Medibloc                     ;medibloc       ;medibloc                    ;                          
+HPB    ;High Performance Blockchain  ;               ;high-performance-blockchain ;                          
+PAC    ;PAC Protocol                 ;               ;                            ;despace-protocol          
+SPHTX  ;SophiaTX                     ;               ;                            ;sopay                     
+ITC    ;IoT Chain                    ;               ;iot-chain                   ;                          
+BIX    ;Bibox Token                  ;               ;bibox-token                 ;                          
+ACT    ;Achain                       ;achain         ;achain                      ;                          
+VEE    ;BLOCKv                       ;blockv         ;blockv                      ;                          
+ZIL    ;Zilliqa                      ;zilliqa        ;zilliqa                     ;                          
+POLY   ;FarmPoly                     ;farmpoly       ;farmpoly                    ;                          
+POLY   ;Polymath                     ;polymath       ;polymath                    ;                          
+AGIX   ;SingularityNET               ;singularitynet ;singularitynet              ;                          
+ONT    ;Ontology                     ;ontology       ;ontology                    ;                          
+BCD    ;Bitcoin Diamond              ;               ;bitcoin-diamond             ;                          
+MITH   ;Mithril                      ;mithril        ;mithril                     ;                          
+NCASH  ;Nucleus Vision               ;               ;nucleus-vision              ;                          
+NULS   ;Nuls                         ;nuls           ;nuls                        ;                          
+GNX    ;Genaro Network               ;               ;genaro-network              ;                          
+MAN    ;Matrix AI Network            ;               ;matrix-ai-network           ;                          
+CS     ;Credits                      ;credits        ;credits                     ;                          
+GVT    ;Genesis Vision               ;               ;genesis-vision              ;                          
+POA    ;POA Network                  ;               ;poa-network                 ;                          
+AUTO   ;Cube                         ;cube           ;cube                        ;                          
+THETA  ;Theta Token                  ;               ;theta-token                 ;                          
+BTCP   ;Bitcoin Private              ;               ;bitcoin-private             ;                          
+XIN    ;Mixin                        ;mixin          ;mixin                       ;                          
+CTXC   ;Cortex                       ;cortex         ;cortex                      ;                          
+ELA    ;Elastos                      ;elastos        ;elastos                     ;                          
+GTO    ;Gifto                        ;gifto          ;gifto                       ;                          
+FSN    ;Fusion                       ;               ;                            ;furio                     
+LOOM   ;Loom Network                 ;               ;loom-network                ;                          
+DBC    ;DeepBrain Chain              ;               ;deepbrain-chain             ;                          
+SMT    ;SmartMesh                    ;smartmesh      ;smartmesh                   ;                          
+BOS    ;BOScoin                      ;               ;                            ;bocoin                    
+RUFF   ;Ruff                         ;ruff           ;ruff                        ;                          
+HT     ;Huobi Token                  ;               ;huobi-token                 ;                          
+MYB    ;MyBit                        ;               ;                            ;mybit-token               
+SOC    ;All Sports                   ;               ;                            ;allspot                   
+HOT    ;Holo                         ;               ;                            ;holoride                  
+BFT    ;BF Token                     ;               ;                            ;bfg-token                 
+STQ    ;Storiqa                      ;storiqa        ;storiqa                     ;                          
+TRUE   ;True Chain                   ;               ;true-chain                  ;                          
+NEXO   ;Nexo                         ;nexo           ;nexo                        ;                          
+DDD    ;Scry.info                    ;               ;                            ;scry-info                 
+0xBTC  ;0xBitcoin                    ;               ;                            ;bitcoin                   
+OKB    ;OKB                          ;okb            ;okb                         ;                          
+WAN    ;Wanchain                     ;wanchain       ;wanchain                    ;                          
+DCN    ;Dentacoin                    ;dentacoin      ;dentacoin                   ;                          
+GTC    ;Game                         ;game           ;game                        ;                          
+QASH   ;QASH                         ;qash           ;qash                        ;                          
+INC    ;Influence Chain              ;               ;                            ;influencer                
+VET    ;VeChain                      ;vechain        ;vechain                     ;                          
+XTZ    ;Tezos                        ;tezos          ;tezos                       ;                          
+CET    ;CoinEx Token                 ;               ;coinex-token                ;                          
+PDX    ;PayDay                       ;               ;                            ;playdapp                  
+NOAH   ;Noah Coin                    ;               ;noah-coin                   ;                          
+AOA    ;Aurora                       ;aurora         ;aurora                      ;                          
+RRT    ;Recovery Right Token         ;               ;recovery-right-token        ;                          
+DAI    ;Multi-Collateral Dai         ;               ;                            ;multi-chain-capital-2     
+MTC    ;Doc.com                      ;               ;                            ;dock                      
+OCN    ;Odyssey                      ;odyssey        ;odyssey                     ;                          
+USDC   ;USD Coin                     ;               ;usd-coin                    ;                          
+USDP   ;Pax Dollar                   ;               ;                            ;pddollar                  
+RVN    ;Ravencoin                    ;ravencoin      ;ravencoin                   ;                          
+DGTX   ;Digitex Futures              ;               ;                            ;digitex-futures-exchange  
+BSV    ;Bitcoin SV                   ;               ;                            ;bitcoinsov                
+ODEM   ;ODEM                         ;odem           ;odem                        ;                          
+CTK    ;CertiK                       ;certik         ;certik                      ;                          
+GUSD   ;Gemini Dollar                ;               ;gemini-dollar               ;                          
+QKC    ;QuarkChain                   ;               ;                            ;quark-chain               
+TUSD   ;TrueUSD                      ;               ;                            ;true-usd                  
+BCZERO ;Buggyra Coin Zero            ;               ;                            ;budacoin                  
+EURS   ;STASIS EURS                  ;               ;stasis-eurs                 ;                          
+REPO   ;REPO                         ;repo           ;repo                        ;                          
+TRD    ;Bittrader                    ;               ;                            ;tabtrader                 
+PAI    ;Project Pai                  ;               ;                            ;projectx                  
+CRO    ;Cronos                       ;               ;                            ;cronodes                  
+EVR    ;Everus                       ;               ;                            ;eversafu                  
+DYN    ;Dynamic                      ;dynamic        ;dynamic                     ;                          
+S4F    ;S4FE                         ;s4fe           ;s4fe                        ;                          
+QNT    ;Quant                        ;               ;                            ;quantis                   
+NEX    ;Nash                         ;               ;                            ;ash                       
+ANKR   ;Ankr Network                 ;               ;                            ;ankreth                   
+ATOM   ;Cosmos                       ;cosmos         ;cosmos                      ;                          
+ABBC   ;ABBC COIN                    ;               ;                            ;atbcoin                   
+ORBS   ;Orbs                         ;orbs           ;orbs                        ;                          
+SOLVE  ;Solve                        ;               ;                            ;solvent                   
+LA     ;LATOKEN                      ;latoken        ;latoken                     ;                          
+TFUEL  ;Theta Fuel                   ;               ;theta-fuel                  ;                          
+CELR   ;Celer Network                ;               ;celer-network               ;                          
+LEO    ;UNUS SED LEO                 ;               ;                            ;usd                       
+VSYS   ;V Systems                    ;               ;v-systems                   ;                          
+EGT    ;Egretia                      ;egretia        ;egretia                     ;                          
+PDATA  ;Opiria                       ;               ;                            ;optimismpad               
+NRG    ;Energi                       ;energi         ;energi                      ;                          
+EKT    ;EDUCare                      ;               ;                            ;uca                       
+GRIN   ;Grin                         ;grin           ;grin                        ;                          
+REN    ;Ren                          ;               ;                            ;rens                      
+UUU    ;U Network                    ;               ;u-network                   ;                          
+XMX    ;XMax                         ;xmax           ;xmax                        ;                          
+UIP    ;UnlimitedIP                  ;unlimitedip    ;unlimitedip                 ;                          
+RIF    ;RIF Token                    ;               ;rif-token                   ;                          
+CIX100 ;Cryptoindex                  ;               ;                            ;cryptoindex-io            
+FX     ;Function X                   ;               ;                            ;functionland              
+ZB     ;ZB                           ;               ;                            ;zebi                      
+ALGO   ;Algorand                     ;algorand       ;algorand                    ;                          
+ATP    ;Atlas Protocol               ;               ;                            ;batasm-protocol-bsm       
+BXK    ;BitBook AG                   ;               ;                            ;bitbook-token             
+BDX    ;Beldex                       ;beldex         ;beldex                      ;                          
+DRG    ;Dragon Coin                  ;               ;dragon-coin                 ;                          
+BEAM   ;BEAM                         ;beam           ;beam                        ;                          
+VITAE  ;Vitae                        ;               ;                            ;vite                      
+LUNC   ;Terra Classic                ;               ;                            ;terracoin                 
+SXP    ;SXP                          ;               ;                            ;asixplus                  
+SNX    ;Synthetix                    ;               ;                            ;synthetic-sol             
+FTT    ;FTX Token                    ;               ;ftx-token                   ;                          
+BAND   ;Band Protocol                ;               ;band-protocol               ;                          
+BCV    ;BitCapitalVendor             ;               ;                            ;bitcastle                 
+BF     ;Bitforex Token               ;               ;                            ;bitforex                  
+CRPT   ;Crypterium                   ;crypterium     ;crypterium                  ;                          
+BZ     ;Bit-Z Token                  ;               ;                            ;bittoken                  
+EON    ;Dimension Chain              ;               ;                            ;dimecoin                  
+HC     ;HyperCash                    ;               ;                            ;hypercent                 
+GAP    ;GAPS                         ;               ;                            ;gas                       
+MOF    ;Molecular Future             ;               ;molecular-future            ;                          
+SEELE  ;Seele                        ;seele          ;seele                       ;                          
+NEW    ;Newton Project               ;               ;newton-project              ;                          
+MATIC  ;Polygon                      ;               ;                            ;polygon-hbd               
+CHZ    ;Chiliz                       ;chiliz         ;chiliz                      ;                          
+ASD    ;AscendEX Token               ;               ;                            ;exentoken                 
+ILC    ;ILCOIN                       ;               ;                            ;filecoin                  
+GT     ;GateToken                    ;               ;                            ;fate-token                
+CKB    ;Nervos Network               ;               ;nervos-network              ;                          
+CEL    ;Celsius Network              ;               ;                            ;celsius-degree-token      
+QC     ;QCash                        ;               ;                            ;qash                      
+WICC   ;WaykiChain                   ;waykichain     ;waykichain                  ;                          
+BUSD   ;Binance USD                  ;               ;binance-usd                 ;                          
+HBAR   ;Hedera Hashgraph             ;               ;hedera-hashgraph            ;                          
+HIVE   ;Hive Token                   ;               ;                            ;hive                      
+SURE   ;inSure DeFi                  ;               ;                            ;insure                    
+ECHO   ;Echo                         ;               ;                            ;echoin                    
+EURT   ;Tether EUR                   ;               ;                            ;tether-eurt               
+XAUT   ;Tether Gold                  ;               ;tether-gold                 ;                          
+QQQ    ;Poseidon Network             ;               ;                            ;poseidon-2                
+HUSD   ;HUSD                         ;husd           ;husd                        ;                          
+HYN    ;Hyperion                     ;hyperion       ;hyperion                    ;                          
+UBT    ;Unibright                    ;unibright      ;unibright                   ;                          
+BHD    ;BTCHD                        ;               ;                            ;bchpad                    
+VLX    ;Velas                        ;velas          ;velas                       ;                          
+STX    ;Stacks                       ;               ;                            ;stackos                   
+BAL    ;Balancer                     ;balancer       ;balancer                    ;                          
+DIVI   ;Divi Project                 ;               ;                            ;divi                      
+CHSB   ;SwissBorg                    ;swissborg      ;swissborg                   ;                          
+RUNE   ;THORChain                    ;thorchain      ;thorchain                   ;                          
+WBTC   ;Wrapped Bitcoin              ;               ;wrapped-bitcoin             ;                          
+COMP   ;Compound                     ;               ;                            ;compound-0x               
+AMPL   ;Ampleforth                   ;ampleforth     ;ampleforth                  ;                          
+YFI    ;yearn.finance                ;               ;                            ;yearn-finance             
+KAVA   ;Kava                         ;kava           ;kava                        ;                          
+DOT    ;Polkadot                     ;polkadot       ;polkadot                    ;                          
+UMA    ;UMA                          ;uma            ;uma                         ;                          
+EWT    ;Energy Web Token             ;               ;energy-web-token            ;                          
+KSM    ;Kusama                       ;kusama         ;kusama                      ;                          
+OCEAN  ;Ocean Protocol               ;               ;ocean-protocol              ;                          
+RSR    ;Reserve Rights               ;               ;                            ;reserve                   
+BZRX   ;bZx Protocol                 ;               ;bzx-protocol                ;                          
+NEST   ;NEST Protocol                ;               ;                            ;assent-protocol           
+AR     ;Arweave                      ;arweave        ;arweave                     ;                          
+YFII   ;DFI.money                    ;               ;                            ;dione                     
+SRM    ;Serum                        ;serum          ;serum                       ;                          
+SOL    ;Solana                       ;solana         ;solana                      ;                          
+JST    ;JUST                         ;just           ;just                        ;                          
+UNI    ;Uniswap                      ;uniswap        ;uniswap                     ;                          
+EGLD   ;Elrond                       ;               ;                            ;elron                     
+PERP   ;Perpetual Protocol           ;               ;perpetual-protocol          ;                          
+AVAX   ;Avalanche                    ;               ;                            ;avalanche-2               
+FIL    ;Filecoin                     ;filecoin       ;filecoin                    ;                          
+AAVE   ;Aave                         ;aave           ;aave                        ;                          
+RENBTC ;renBTC                       ;renbtc         ;renbtc                      ;                          
+NXM    ;Nexus Mutual                 ;               ;                            ;nexus                     
+NEAR   ;Near Protocol                ;               ;                            ;linear-protocol           
+CRD    ;CRD Network                  ;               ;crd-network                 ;                          
+DX     ;DxChain                      ;dxchain        ;dxchain                     ;                          
+HBTC   ;Huobi BTC                    ;               ;huobi-btc                   ;                          
+STRONG ;Strong                       ;strong         ;strong                      ;                          
+XDC    ;XinFin Network               ;               ;                            ;nftnetwork                
+GRT    ;The Graph                    ;               ;the-graph                   ;                          
+ESD    ;Empty Set Dollar             ;               ;empty-set-dollar            ;                          
+USTC   ;TerraClassicUSD              ;               ;                            ;terracoin                 
+1INCH  ;1inch Network Token          ;               ;                            ;1inch                     
+CELO   ;Celo                         ;celo           ;celo                        ;                          
+CRV    ;Curve DAO Token              ;               ;curve-dao-token             ;                          
+GNY    ;GNY                          ;gny            ;gny                         ;                          
+ALPHA  ;Alpha Finance Lab            ;               ;                            ;alpha-finance             
+FTM    ;Fantom                       ;fantom         ;fantom                      ;                          
+SUSHI  ;Sushi                        ;sushi          ;sushi                       ;                          
+FLOW   ;Flow                         ;flow           ;flow                        ;                          
+CAKE   ;PancakeSwap                  ;               ;                            ;pancakeswap-token         
+XSUSHI ;xSUSHI                       ;xsushi         ;xsushi                      ;                          
+AMP    ;Amp                          ;               ;                            ;ramp                      
+DODO   ;DODO Token                   ;               ;                            ;dodo                      
+KLAY   ;Klaytn                       ;               ;                            ;klaytn-dai                
+BRG    ;Bridge Oracle                ;               ;bridge-oracle               ;                          
+OMI    ;ECOMI                        ;ecomi          ;ecomi                       ;                          
+ONE    ;Harmony                      ;harmony        ;harmony                     ;                          
+CFX    ;Conflux Network              ;               ;                            ;conflux-token             
+LUSD   ;Liquity USD                  ;               ;liquity-usd                 ;                          
+ARRR   ;Pirate Chain                 ;               ;pirate-chain                ;                          
+XVS    ;Venus                        ;venus          ;venus                       ;                          
+ICP    ;Internet Computer            ;               ;internet-computer           ;                          
+STEEL  ;Steel                        ;steel          ;steel                       ;                          
+SHIB   ;SHIBA INU                    ;               ;shiba-inu                   ;                          
+FIDA   ;Bonfida                      ;bonfida        ;bonfida                     ;                          
+TEL    ;Telcoin                      ;telcoin        ;telcoin                     ;                          
+FEI    ;Fei USD                      ;               ;fei-usd                     ;                          
+MDX    ;Mdex                         ;mdex           ;mdex                        ;                          
+AXS    ;Axie Infinity                ;               ;axie-infinity               ;                          
+DESO   ;Decentralized Social         ;               ;                            ;decentralized-usd         
+XEC    ;eCash                        ;ecash          ;ecash                       ;                          
+STETH  ;Lido Staked Ether            ;               ;                            ;lido-staked-matic         
+HNT    ;Helium                       ;helium         ;helium                      ;                          
+AUDIO  ;Audius                       ;audius         ;audius                      ;                          
+OHM    ;Olympus v2                   ;               ;                            ;olympus                   
+DYDX   ;dYdX                         ;dydx           ;dydx                        ;                          
+MINA   ;Mina Protocol                ;               ;mina-protocol               ;                          
+MIM    ;Magic Internet Money         ;               ;magic-internet-money        ;                          
+BIT    ;BitDAO                       ;bitdao         ;bitdao                      ;                          
+SAND   ;The Sandbox                  ;               ;the-sandbox                 ;                          
+ELON   ;Dogelon Mars                 ;               ;dogelon-mars                ;                          
+TIME   ;Wonderland                   ;wonderland     ;wonderland                  ;                          
+GALA   ;GALA                         ;gala           ;gala                        ;                          
+KDA    ;Kadena                       ;kadena         ;kadena                      ;                          
+IMX    ;Immutable X                  ;               ;immutable-x                 ;                          
+IOTX   ;IoTeX                        ;iotex          ;iotex                       ;                          
+ENS    ;Ethereum Name Service        ;               ;ethereum-name-service       ;                          
+MSOL   ;Marinade staked SOL          ;               ;                            ;marinade                  
+WAXP   ;WAX                          ;wax            ;wax                         ;                          
+FRAX   ;Frax                         ;frax           ;frax                        ;                          
+CVX    ;Convex Finance               ;               ;convex-finance              ;                          
+SPELL  ;Spell Token                  ;               ;spell-token                 ;                          
+ROSE   ;Oasis Network                ;               ;oasis-network               ;                          
+BTT    ;BitTorrent                   ;bittorrent     ;bittorrent                  ;                          
+OSMO   ;Osmosis                      ;osmosis        ;osmosis                     ;                          
+POKT   ;Pocket Network               ;               ;pocket-network              ;                          
+BORA   ;BORA                         ;               ;                            ;bork                      
+KUB    ;Bitkub Coin                  ;               ;bitkub-coin                 ;                          
+ANC    ;Anchor Protocol              ;               ;anchor-protocol             ;                          
+APE    ;ApeCoin                      ;apecoin        ;apecoin                     ;                          
+DFI    ;DeFiChain                    ;defichain      ;defichain                   ;                          
+GMT    ;Green Metaverse Token        ;               ;                            ;greentrust                
+SCRT   ;Secret                       ;secret         ;secret                      ;                          
+XCN    ;Chain                        ;               ;                            ;chainx                    
+LDO    ;Lido DAO Token               ;               ;                            ;lido-dao                  
+USDN   ;Neutrino USD                 ;               ;                            ;neutrino                  
+MEX    ;Maiar                        ;               ;                            ;maia                      
+LUNA   ;Terra                        ;               ;                            ;terrausd                  
+PAXG   ;PAX Gold                     ;               ;pax-gold                    ;                          
+WEMIX  ;WEMIX Token                  ;               ;                            ;semitoken                 
+10SET  ;Tenset                       ;tenset         ;tenset                      ;                          
+TWT    ;Trust Wallet Token           ;               ;trust-wallet-token          ;                          

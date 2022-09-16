@@ -38,7 +38,7 @@ def str_best_match(x: str) -> str:
     return guesses_df["id_upper"].apply(lambda y: sim_model.similarity(x, y)).idxmax()
 
 
-nomatch_df = mref.loc[mref["id"].isna() & mref["id2"].isna()
+nomatch_df = mref.loc[mref[["id", "id2"]].isna().all(axis=1)
                       ]["name"].copy().to_frame()
 nomatch_df["id3"] = nomatch_df.reset_index()["name_upper"].apply(
     lambda x: str_best_match(x)).to_list()
@@ -46,5 +46,12 @@ nomatch_df["id3"] = nomatch_df.reset_index()["name_upper"].apply(
 # combine and write
 mref = mref.join(nomatch_df["id3"])
 mref.reset_index()
-mref.to_csv(os.path.join("data", "ref", "main",
-            "ref_main.csv"), sep=";", index=False)
+filepath = os.path.join("data", "ref", "main", "ref_main.csv")
+os.makedirs(os.path.dirname(filepath), exist_ok=True)
+mref.to_csv(filepath, sep=";", index=False)
+
+
+nomatch_df.loc["VALIDITY"]
+mref.loc["VALIDITY"]
+rcg.set_index("id").loc["ripple"]
+rcg["id"].apply(lambda x: x.contains("valid"))
