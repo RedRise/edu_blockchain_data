@@ -3,6 +3,12 @@ import pandas as pd
 from datetime import datetime
 import plotly.express as px
 
+nDate = "date"
+nPrice = "price"
+nRank = "rank"
+nName = "name"
+nTicker = "ticker"
+
 data_dir = os.path.expanduser(r"D:\to_del\bs_data\cc_mkt")
 
 # utils functions -------------------------------------------------------------
@@ -25,6 +31,10 @@ for item in os.listdir(data_dir):
 # concat
 df = pd.concat(dfs).reset_index(drop=True)
 del (dfs)
+
+# # keep first 10 tokens
+# df.loc[df[nRank] < 11][[nTicker, nName]].drop_duplicates().to_csv(
+#     os.path.join("data", "temp", "ref_cc_10.csv"), sep=";", index=False)
 
 
 # BTC historical price viz

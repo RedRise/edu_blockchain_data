@@ -2,10 +2,13 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import date, datetime, timedelta
+from typing import Tuple
 import logging
 
-URL_HISTO_MARKETS = r"https://coincodex.com/historical-data/crypto/?date={0}"
+import symbol
 
+URL_HISTO_MARKETS = r"https://coincodex.com/historical-data/crypto/?date={0}"
+URL_ALL_COINS = r"https://coincodex.com/apps/coincodex/cache/all_coins.json"
 
 nRank = "rank"
 nTicker = "ticker"
@@ -72,8 +75,7 @@ def download_market_caps(date: datetime.date) -> pd.DataFrame:
 
 def download_all_coins() -> pd.DataFrame:
 
-    url = r"https://coincodex.com/apps/coincodex/cache/all_coins.json"
-    req = requests.get(url)
+    req = requests.get(URL_ALL_COINS)
     rdf = pd.DataFrame(req.json()).sort_values(
         "market_cap_rank", ascending=True).reset_index(drop=True)
     return rdf
@@ -88,6 +90,8 @@ def _get_coin_history(symbol: str, start: datetime.date, end: datetime.date, sam
         sample=sample)
 
     content = requests.get(url).json()
+    if len(content) == 0:
+        return None
     rdf = pd.DataFrame(next(iter(content.values())))
     rdf[0] = rdf[0].apply(datetime.fromtimestamp)
     rdf.columns = [nDatetime, nPrice, nVolume, nMktCap]
@@ -99,11 +103,10 @@ def download_daily_prices(symbol, start: datetime.date, end: datetime.date) -> p
     day_incr = 500
     loc_start = start
     loc_end = min(end, start + timedelta(days=day_incr))
-    loc_steps = (loc_end - loc_start)
-    pass
+    loc_sample = (loc_end - loc_start).days + 1
 
+    return _get_coin_history(symbol, loc_start, loc_end, loc_sample)
 
-datetime(2021, 1, 10)-datetime(2021, 1, 1).days()
 
 # start = datetime(2016, 1, 1)
 # steps = 365
@@ -114,3 +117,9 @@ datetime(2021, 1, 10)-datetime(2021, 1, 1).days()
 # rdf = hp(20)
 # rdf
 # rdfrdf[0].apply(datetime.fromtimestamp)
+
+
+def download_price_asofdate(id: str, as_of_date: datetime) -> Tuple[datetime, float]:
+    rdf = download_daily_prices(
+        id, start=as_of_date - timedelta(days=1), end=as_of_date)
+    return tuple(rdf.iloc[len(rdf)-1][["datetime", "price"]].to_list())
